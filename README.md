@@ -1,4 +1,4 @@
-![Sakutaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&count_private=true)
+![Sakutaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&count_private=true&hide=prs,contribs)
 
 Hi, I’m @Sakutaroo also called Kévin D.
 
