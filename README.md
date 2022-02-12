@@ -2,7 +2,7 @@
 [![Follow](https://img.shields.io/github/followers/Sakutaroo?label=Follow&style=social)](https://github.com/Sakutaroo)
 
 ![Sakutaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&count_private=true&hide=prs,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakutaroo&langs_count=8&theme=radical)](https://github.com/Sakutaroo/github-readme-stats)
+ <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakutaroo&theme=radical" />
 
 
 Hi, I’m @Sakutaroo also called Kévin D.
