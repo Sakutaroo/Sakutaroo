@@ -74,7 +74,7 @@
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:kevin.demy@epitech.eu" target="blank"><img align="center"
-         src="https://img.shields.io/badge/MAIL-0078D4.svg?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white"
+         src="https://img.shields.io/badge/kevin.demy@epitech.eu-0078D4.svg?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   </samp>
