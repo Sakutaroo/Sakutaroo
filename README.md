@@ -109,12 +109,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Sakutaroo/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakutaroo&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="Sakutaroo :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakutaroo&langs_count=6&theme=radical&layout=compact&hide_border=true&count_private=true" alt="Sakutaroo :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Sakutaroo/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakutaroo&theme=radical&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakutaroo&theme=radical&hide_border=true&count_private=true" />
           </a>
        </p>
        <p align="center">
