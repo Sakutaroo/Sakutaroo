@@ -16,10 +16,10 @@
     <h2 align="center">🛠 Skills :</h2>
      <p align="center"> Languages </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       </p>
      </p>
      <p align="center"> Backend Development </p>
@@ -35,7 +35,7 @@
    </p>
    <p align="center"> Devops </p>
       <p align="center">
-       <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=Docker&logoColor=white">
+       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
       </p>
    </p>
    <p align="center"> IDE </p>
