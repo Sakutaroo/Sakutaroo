@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=css3&logoColor=white">
       </p>
      </p>
-     <p align="center"> Frameworks </p>
+     <p align="center"> Backend Development </p>
       <p align="center">
        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
