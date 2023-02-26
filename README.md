@@ -79,7 +79,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/Sakutaroo/">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakutaroo&theme=radical" /></a>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakutaroo&theme=radical&count_private=true" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Sakutaroo/">
