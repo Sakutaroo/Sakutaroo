@@ -6,8 +6,8 @@
 </p>
 
 <div style="text-align: center;">
-  <a href="https://github.com/Sakutaroo/Sakutaroo/blob/readme/resources/grid-snake.svg">
-  <img src="https://github.com/Sakutaroo/Sakutaroo/blob/readme/resources/grid-snake.svg" alt="snake" /></a>
+  <a href="https://github.com/Sakutaroo/Sakutaroo/blob/main/resources/grid-snake.svg">
+  <img src="https://github.com/Sakutaroo/Sakutaroo/blob/main/resources/grid-snake.svg" alt="snake" /></a>
 </div>
 
 &nbsp;
