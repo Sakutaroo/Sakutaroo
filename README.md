@@ -46,8 +46,8 @@
       <a href="https://www.linkedin.com/in/kevindemy/" target="blank">
         <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="kevindemy" height="30"/>
       </a>
-      <a href="mailto:kevin.demy@epitech.eu" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" alt="kevin.demy@epitech.eu" height="30"/>
+      <a href="mailto:kevin.demy.pro@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" alt="kevin.demy.pro@gmail.com" height="30"/>
       </a>
     </p>
   </samp>
