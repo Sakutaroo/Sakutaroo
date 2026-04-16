@@ -1,81 +1,58 @@
-<h1 align="center">Hi, I am Kevin <img alt="waving hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Kevin</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Developer;Lifelong+Student;Kotlin+Enthusiast">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Software+Developer;Open+Source+Contributor;Go+Enthusiast">
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/Sakutaroo/Sakutaroo/blob/main/resources/grid-snake.svg">
-  <img src="https://github.com/Sakutaroo/Sakutaroo/blob/main/resources/grid-snake.svg" alt="snake" /></a>
+    <img src="https://github.com/Sakutaroo/Sakutaroo/blob/main/resources/grid-snake.svg" alt="snake" />
+  </a>
 </div>
 
 &nbsp;
 
-<div>
-  <samp>
-    <h2 align="center">🛠 Skills :</h2>
-    <p align="center"> Languages </p>
-    <p align="center">
-      <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-    </p>
-    <p align="center"> Frameworks & Libraries </p>
-    <p align="center">
-      <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-      <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-      <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff">
-    </p>
-    <p align="center"> Mobile </p>
-    <p align="center">
-      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
-    </p>
-  </samp>
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+  <p>I am a Software Developer at <b>OVHcloud</b> with a strong passion for Open Source.</p>
+  <p>My work focuses on writing OVHcloud KMS integrations for tools like OpenBao, Cosign, and others.</p>
+  <p>My technical expertise is primarily focused on <b>Go</b>.</p>
 </div>
 
 &nbsp;
 
-<div>
-  <samp>
-    <h2 align="center">🚀 You can reach me by :</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/kevindemy/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="kevindemy" height="30"/>
-      </a>
-      <a href="mailto:kevin.demy.pro@gmail.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" alt="kevin.demy.pro@gmail.com" height="30"/>
-      </a>
-    </p>
-  </samp>
-</div>
+<h2 align="center">🛠 Skills</h2>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+</p>
+
+<p align="center"><b>Tools & Infrastructure</b></p>
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
 
 &nbsp;
 
-<div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center"">
-          <a href="https://github.com/Sakutaroo/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakutaroo&langs_count=6&theme=radical&layout=compact&hide_border=true&count_private=true" alt="Sakutaroo :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Sakutaroo/">
-          <img alt="Sakutaroo :: Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakutaroo&theme=radical&count_private=true" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Sakutaroo/">
-          <img alt="Sakutaroo :: Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Sakutaroo&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true&count_private=true" />
-          </a>
-       </p>
-        <p style="text-align: center;">
-          <a href="https://github.com/Sakutaroo/">
-          <img alt="Sakutaroo :: Github Stats" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakutaroo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-          <img alt="Sakutaroo :: Github Streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakutaroo&theme=radical&hide_border=true&count_private=true" />
-          </a>
-       </p>
-  </div>
+<h2 align="center">🚀 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevindemy/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="kevindemy" height="30"/>
+  </a>
+  <a href="mailto:kevin.demy.pro@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" alt="kevin.demy.pro@gmail.com" height="30"/>
+  </a>
+</p>
